@@ -19,5 +19,6 @@
     <Folder Include="Views\Sellers\" />
     <Folder Include="Services\" />
     <Folder Include="Services\Exceptions\" />
+    <Folder Include="Views\SalesRecords\" />
   </ItemGroup>
 </Project>
